@@ -6,7 +6,7 @@ import numpy as np
 import nibabel as nib
 import cv2
 from tqdm import tqdm
-
+## preprocessing
 if __name__ == '__main__':
     path = 'C:\\Users\\hansol\\Downloads\\Prostate US AI _0063\\'
 
