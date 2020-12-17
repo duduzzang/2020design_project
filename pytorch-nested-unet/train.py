@@ -42,7 +42,7 @@ def parse_args():
 
     parser.add_argument('--name', default=None,
                         help='model name: (default: arch+timestamp)')
-    parser.add_argument('--epochs', default=250, type=int, metavar='N',          ############ 바꿈
+    parser.add_argument('--epochs', default=250, type=int, metavar='N',          ########### 바꿈
                         help='number of total epochs to run')
     parser.add_argument('-b', '--batch_size', default=4, type=int,             ############ 바꿈
                         metavar='N', help='mini-batch size (default: 8)')
