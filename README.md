@@ -107,6 +107,7 @@ output
 ## Measuring Algorithm
 line_scan.py & find_maximum_length.py
 ```
-![final_output_A1](./image/final_output_A1.PNG) ![final_output_S1](./image/final_output_S1.PNG)
+![final_output_A1](./image/final_output_A1.PNG)
+![final_output_S1](./image/final_output_S1.PNG)
 ```
 
