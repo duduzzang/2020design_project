@@ -90,6 +90,9 @@ output
           ├── ...
             
 ```
+![output_mask_A1](./image/output_mask_A1.jpg)
+![output_mask_S1](./image/output_mask_S1.jpg)
+
 
 ## Select max_surface Axial, Sagittal
 ```
