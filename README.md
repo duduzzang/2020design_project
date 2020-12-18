@@ -1,5 +1,5 @@
 # 2020design_project
-prostate segmentation
+Measuring Size of Prostate in Ultrasound Image with Deep Learning
 
 ## Original Prostate Dataset
 자신에 맞는 경로 수정 필요!
