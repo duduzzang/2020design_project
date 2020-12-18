@@ -74,7 +74,9 @@ inputs
 ```
 ## Train
 Contour Segmentation
+
 Nested Unet (Unet++)
+
 자신에 맞는 경로 및 image input size(x16n) 수정 필요!
 
 ## Test output
